@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Nathan is learning 
+## Wish I could master the code
+### to get in MIT
